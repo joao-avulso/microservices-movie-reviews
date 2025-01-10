@@ -5,7 +5,6 @@ import br.com.czerwony.trabalho_sd_user_ms.models.UserModel;
 import br.com.czerwony.trabalho_sd_user_ms.repositories.UserRepository;
 import br.com.czerwony.trabalho_sd_user_ms.services.UserService;
 import jakarta.validation.Valid;
-import org.apache.catalina.User;
 import org.springframework.beans.BeanUtils;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
